@@ -1,0 +1,15 @@
+MODEL.01
+can
+ISOTROPIC
+KGS
+FLAT EARTH
+1-D
+CONSTANT VELOCITY
+LINE08
+LINE09
+LINE10
+LINE11
+      H(KM)   VP(KM/S)   VS(KM/S) RHO(GM/CC)     QP         QS       ETAP       ETAS      FREFP      FREFS
+     -10.0000   0.340     0.0000     0.0013  0.100E+04   1.43       0.00       0.00       1.00       1.00
+     0.09      1.6       0.28       1.8     100         50.        0.00       0.00       1.00       1.00
+     0.0        2.7       1.0        2.0     100         50.        0.00       0.00       1.00       1.00
